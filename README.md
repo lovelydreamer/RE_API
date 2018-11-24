@@ -22,4 +22,4 @@ source ~/.profile
 adb shell
 bam!
 
-but wait. you can't download from the playstore the target app.
+but wait. you can't download from the playstore the target app. so....borrow a pre android 9 device and make proxied requests the ol'fashioned way.
